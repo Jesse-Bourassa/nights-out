@@ -1,0 +1,95 @@
+{
+  "events": [
+    {
+      "id": "apt200-rnb-fridays-2025-08-15",
+      "venueId": "apt200",
+      "title": "R&B Fridays",
+      "startAt": "2025-08-15T22:30:00-04:00",
+      "hero": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?q=80&w=1600&auto=format&fit=crop",
+      "music": ["R&B", "Hip-Hop"],
+      "priceMin": 10,
+      "ticketUrl": "https://example.com/rnb-fridays"
+    },
+    {
+      "id": "apt200-throwback-thu-2025-08-21",
+      "venueId": "apt200",
+      "title": "Throwback Thursday",
+      "startAt": "2025-08-21T22:00:00-04:00",
+      "hero": "https://images.unsplash.com/photo-1549924231-f129b911e442?q=80&w=1600&auto=format&fit=crop",
+      "music": ["2000s", "Pop"]
+    },
+
+    {
+      "id": "lavoute-saturdays-2025-08-16",
+      "venueId": "lavoute",
+      "title": "Saturdays at the Vault",
+      "startAt": "2025-08-16T22:00:00-04:00",
+      "hero": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?q=80&w=1600&auto=format&fit=crop",
+      "music": ["House", "Top 40"],
+      "priceMin": 20
+    },
+    {
+      "id": "lavoute-house-groove-2025-08-22",
+      "venueId": "lavoute",
+      "title": "House & Groove",
+      "startAt": "2025-08-22T22:30:00-04:00",
+      "hero": "https://images.unsplash.com/photo-1521334884684-d80222895322?q=80&w=1600&auto=format&fit=crop",
+      "music": ["House", "Deep House"]
+    },
+
+    {
+      "id": "cafecampus-student-night-2025-08-14",
+      "venueId": "cafecampus",
+      "title": "Student Night",
+      "startAt": "2025-08-14T21:00:00-04:00",
+      "hero": "https://images.unsplash.com/photo-1532635241-17e820acc59f?q=80&w=1600&auto=format&fit=crop",
+      "music": ["Top 40", "Dance"],
+      "priceMin": 5
+    },
+    {
+      "id": "cafecampus-indie-night-2025-08-15",
+      "venueId": "cafecampus",
+      "title": "Indie Night",
+      "startAt": "2025-08-15T21:30:00-04:00",
+      "hero": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=1600&auto=format&fit=crop",
+      "music": ["Indie", "Alternative"],
+      "priceMin": 15
+    },
+
+    {
+      "id": "rouge-neon-hiphop-2025-08-15",
+      "venueId": "rouge",
+      "title": "Neon Hip-Hop",
+      "startAt": "2025-08-15T23:00:00-04:00",
+      "hero": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?q=80&w=1600&auto=format&fit=crop",
+      "music": ["Hip-Hop", "Rap"],
+      "priceMin": 20
+    },
+    {
+      "id": "rouge-ladies-night-2025-08-22",
+      "venueId": "rouge",
+      "title": "Ladies Night",
+      "startAt": "2025-08-22T23:00:00-04:00",
+      "hero": "https://images.unsplash.com/photo-1542089363-5c3e85a1c9b7?q=80&w=1600&auto=format&fit=crop",
+      "music": ["Hip-Hop", "R&B"]
+    },
+
+    {
+      "id": "stereo-afterhours-2025-08-17",
+      "venueId": "stereo",
+      "title": "Afterhours Techno",
+      "startAt": "2025-08-17T02:00:00-04:00",
+      "hero": "https://images.unsplash.com/photo-1487180144351-b8472da7d491?q=80&w=1600&auto=format&fit=crop",
+      "music": ["Techno"],
+      "priceMin": 25
+    },
+    {
+      "id": "stereo-sunrise-session-2025-08-24",
+      "venueId": "stereo",
+      "title": "Sunrise Session",
+      "startAt": "2025-08-24T04:00:00-04:00",
+      "hero": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?q=80&w=1600&auto=format&fit=crop",
+      "music": ["Techno", "House"]
+    }
+  ]
+}
